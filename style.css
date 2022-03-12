@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(imagenes/purpura.jpeg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+
+}
+h1 { color: #f3efef; }
+p {color:#f3efef}
